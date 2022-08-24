@@ -1,7 +1,16 @@
 # Expense Manager App
 
-## Built using React
 
-Part of a course on Udemy
+## Features
 
-[Full Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+1. Add new expense.
+1. See expenses sorted by year.
+1. Per year a chart is shown bases on the expenses of each month of that year.
+
+## Authors
+
+- [@superbsuman](https://www.github.com/superbsuman)
+
+## Demo
+
+[Click Here](https://expensemanagerapp.netlify.app)
